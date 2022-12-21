@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "89D2E3B5-7A8B-4586-BF47-6CC5A1251F9B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "38C2CF23-1132-4D86-8FD7-989F83D22485"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DeepLink demo/Helper/DeeplinkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "manage(url:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3AC67B3D-848F-4976-A43E-F59722EB09FD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DeepLink demo/Helper/DeeplinkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "manage(url:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3AC67B3D-848F-4976-A43E-F59722EB09FD - a8081ee24353746a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DeepLink_demo.DeeplinkManager.manage(url: Foundation.URL) -&gt; DeepLink_demo.DeeplinkManager.DeeplinkTarget"
+                  moduleName = "DeepLink demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jk/Documents/SwiftUi/DeepLink%20demo/DeepLink%20demo/Helper/DeeplinkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "2120">
+               </Location>
+               <Location
+                  uuid = "3AC67B3D-848F-4976-A43E-F59722EB09FD - 3506418a1d3c736c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (inout Swift.Dictionary&lt;Swift.String, Swift.String&gt;, Foundation.URLQueryItem) -&gt; () in DeepLink_demo.DeeplinkManager.manage(url: Foundation.URL) -&gt; DeepLink_demo.DeeplinkManager.DeeplinkTarget"
+                  moduleName = "DeepLink demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jk/Documents/SwiftUi/DeepLink%20demo/DeepLink%20demo/Helper/DeeplinkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "140">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
